@@ -1,0 +1,502 @@
+D:\QueryBuilder\bin\Debug\net5.0\appsettings.Development.json
+D:\QueryBuilder\bin\Debug\net5.0\appsettings.json
+D:\QueryBuilder\bin\Debug\net5.0\QueryBuilder.exe
+D:\QueryBuilder\bin\Debug\net5.0\QueryBuilder.deps.json
+D:\QueryBuilder\bin\Debug\net5.0\QueryBuilder.runtimeconfig.json
+D:\QueryBuilder\bin\Debug\net5.0\QueryBuilder.runtimeconfig.dev.json
+D:\QueryBuilder\bin\Debug\net5.0\QueryBuilder.dll
+D:\QueryBuilder\bin\Debug\net5.0\ref\QueryBuilder.dll
+D:\QueryBuilder\bin\Debug\net5.0\QueryBuilder.pdb
+D:\QueryBuilder\bin\Debug\net5.0\QueryBuilder.Views.dll
+D:\QueryBuilder\bin\Debug\net5.0\QueryBuilder.Views.pdb
+D:\QueryBuilder\obj\Debug\net5.0\QueryBuilder.csproj.AssemblyReference.cache
+D:\QueryBuilder\obj\Debug\net5.0\QueryBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\QueryBuilder\obj\Debug\net5.0\QueryBuilder.AssemblyInfoInputs.cache
+D:\QueryBuilder\obj\Debug\net5.0\QueryBuilder.AssemblyInfo.cs
+D:\QueryBuilder\obj\Debug\net5.0\QueryBuilder.csproj.CoreCompileInputs.cache
+D:\QueryBuilder\obj\Debug\net5.0\QueryBuilder.MvcApplicationPartsAssemblyInfo.cache
+D:\QueryBuilder\obj\Debug\net5.0\QueryBuilder.RazorAssemblyInfo.cache
+D:\QueryBuilder\obj\Debug\net5.0\QueryBuilder.RazorAssemblyInfo.cs
+D:\QueryBuilder\obj\Debug\net5.0\staticwebassets\QueryBuilder.StaticWebAssets.Manifest.cache
+D:\QueryBuilder\obj\Debug\net5.0\staticwebassets\QueryBuilder.StaticWebAssets.xml
+D:\QueryBuilder\obj\Debug\net5.0\scopedcss\bundle\QueryBuilder.styles.css
+D:\QueryBuilder\obj\Debug\net5.0\QueryBuilder.TagHelpers.input.cache
+D:\QueryBuilder\obj\Debug\net5.0\QueryBuilder.TagHelpers.output.cache
+D:\QueryBuilder\obj\Debug\net5.0\QueryBuilder.RazorCoreGenerate.cache
+D:\QueryBuilder\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\QueryBuilder\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\QueryBuilder\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\QueryBuilder\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\QueryBuilder\obj\Debug\net5.0\QueryBuilder.RazorTargetAssemblyInfo.cache
+D:\QueryBuilder\obj\Debug\net5.0\QueryBuilder.RazorTargetAssemblyInfo.cs
+D:\QueryBuilder\obj\Debug\net5.0\QueryBuilder.Views.pdb
+D:\QueryBuilder\obj\Debug\net5.0\QueryBuilder.dll
+D:\QueryBuilder\obj\Debug\net5.0\ref\QueryBuilder.dll
+D:\QueryBuilder\obj\Debug\net5.0\QueryBuilder.pdb
+D:\QueryBuilder\obj\Debug\net5.0\QueryBuilder.genruntimeconfig.cache
+D:\QueryBuilder\obj\Debug\net5.0\QueryBuilder.csproj.CopyComplete
+D:\QueryBuilder\bin\Debug\net5.0\Humanizer.dll
+D:\QueryBuilder\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\QueryBuilder\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\QueryBuilder\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\QueryBuilder\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\QueryBuilder\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\QueryBuilder\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\QueryBuilder\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\QueryBuilder\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\QueryBuilder\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\QueryBuilder\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\QueryBuilder\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\QueryBuilder\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\QueryBuilder\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\QueryBuilder\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\QueryBuilder\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\QueryBuilder\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\QueryBuilder\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\QueryBuilder\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\QueryBuilder\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\QueryBuilder\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\QueryBuilder\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\QueryBuilder\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\QueryBuilder\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\QueryBuilder\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\QueryBuilder\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\QueryBuilder\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\QueryBuilder\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\QueryBuilder\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\QueryBuilder\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\QueryBuilder\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\QueryBuilder\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\LabDays\bin\Debug\net5.0\appsettings.Development.json
+C:\LabDays\bin\Debug\net5.0\appsettings.json
+C:\LabDays\bin\Debug\net5.0\QueryBuilder.exe
+C:\LabDays\bin\Debug\net5.0\QueryBuilder.deps.json
+C:\LabDays\bin\Debug\net5.0\QueryBuilder.runtimeconfig.json
+C:\LabDays\bin\Debug\net5.0\QueryBuilder.runtimeconfig.dev.json
+C:\LabDays\bin\Debug\net5.0\QueryBuilder.dll
+C:\LabDays\bin\Debug\net5.0\ref\QueryBuilder.dll
+C:\LabDays\bin\Debug\net5.0\QueryBuilder.pdb
+C:\LabDays\bin\Debug\net5.0\QueryBuilder.Views.dll
+C:\LabDays\bin\Debug\net5.0\QueryBuilder.Views.pdb
+C:\LabDays\bin\Debug\net5.0\Humanizer.dll
+C:\LabDays\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\LabDays\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\LabDays\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\LabDays\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\LabDays\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\LabDays\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\LabDays\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\LabDays\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\LabDays\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\LabDays\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\LabDays\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\LabDays\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\LabDays\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\LabDays\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\LabDays\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\LabDays\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\LabDays\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\LabDays\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\LabDays\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\LabDays\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\LabDays\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\LabDays\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\LabDays\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\LabDays\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\LabDays\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\LabDays\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\LabDays\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\LabDays\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\LabDays\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\LabDays\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\LabDays\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\LabDays\obj\Debug\net5.0\QueryBuilder.csproj.AssemblyReference.cache
+C:\LabDays\obj\Debug\net5.0\QueryBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\LabDays\obj\Debug\net5.0\QueryBuilder.AssemblyInfoInputs.cache
+C:\LabDays\obj\Debug\net5.0\QueryBuilder.AssemblyInfo.cs
+C:\LabDays\obj\Debug\net5.0\QueryBuilder.csproj.CoreCompileInputs.cache
+C:\LabDays\obj\Debug\net5.0\QueryBuilder.MvcApplicationPartsAssemblyInfo.cache
+C:\LabDays\obj\Debug\net5.0\QueryBuilder.RazorAssemblyInfo.cache
+C:\LabDays\obj\Debug\net5.0\QueryBuilder.RazorAssemblyInfo.cs
+C:\LabDays\obj\Debug\net5.0\staticwebassets\QueryBuilder.StaticWebAssets.Manifest.cache
+C:\LabDays\obj\Debug\net5.0\staticwebassets\QueryBuilder.StaticWebAssets.xml
+C:\LabDays\obj\Debug\net5.0\scopedcss\bundle\QueryBuilder.styles.css
+C:\LabDays\obj\Debug\net5.0\QueryBuilder.TagHelpers.input.cache
+C:\LabDays\obj\Debug\net5.0\QueryBuilder.TagHelpers.output.cache
+C:\LabDays\obj\Debug\net5.0\QueryBuilder.RazorCoreGenerate.cache
+C:\LabDays\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\LabDays\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\LabDays\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\LabDays\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\LabDays\obj\Debug\net5.0\QueryBuilder.RazorTargetAssemblyInfo.cache
+C:\LabDays\obj\Debug\net5.0\QueryBuilder.RazorTargetAssemblyInfo.cs
+C:\LabDays\obj\Debug\net5.0\QueryBuilder.Views.pdb
+C:\LabDays\obj\Debug\net5.0\QueryBuilder.csproj.CopyComplete
+C:\LabDays\obj\Debug\net5.0\QueryBuilder.dll
+C:\LabDays\obj\Debug\net5.0\ref\QueryBuilder.dll
+C:\LabDays\obj\Debug\net5.0\QueryBuilder.pdb
+C:\LabDays\obj\Debug\net5.0\QueryBuilder.genruntimeconfig.cache
+C:\LabDays\obj\Debug\net5.0\Razor\Views\Columns\Index.cshtml.g.cs
+D:\LabDays (1)\LabDays\bin\Debug\net5.0\appsettings.Development.json
+D:\LabDays (1)\LabDays\bin\Debug\net5.0\appsettings.json
+D:\LabDays (1)\LabDays\bin\Debug\net5.0\QueryBuilder.exe
+D:\LabDays (1)\LabDays\bin\Debug\net5.0\QueryBuilder.deps.json
+D:\LabDays (1)\LabDays\bin\Debug\net5.0\QueryBuilder.runtimeconfig.json
+D:\LabDays (1)\LabDays\bin\Debug\net5.0\QueryBuilder.runtimeconfig.dev.json
+D:\LabDays (1)\LabDays\bin\Debug\net5.0\QueryBuilder.dll
+D:\LabDays (1)\LabDays\bin\Debug\net5.0\ref\QueryBuilder.dll
+D:\LabDays (1)\LabDays\bin\Debug\net5.0\QueryBuilder.pdb
+D:\LabDays (1)\LabDays\bin\Debug\net5.0\QueryBuilder.Views.dll
+D:\LabDays (1)\LabDays\bin\Debug\net5.0\QueryBuilder.Views.pdb
+D:\LabDays (1)\LabDays\bin\Debug\net5.0\Humanizer.dll
+D:\LabDays (1)\LabDays\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\LabDays (1)\LabDays\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\LabDays (1)\LabDays\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\LabDays (1)\LabDays\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\LabDays (1)\LabDays\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\LabDays (1)\LabDays\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\LabDays (1)\LabDays\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\LabDays (1)\LabDays\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\LabDays (1)\LabDays\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LabDays (1)\LabDays\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\LabDays (1)\LabDays\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\LabDays (1)\LabDays\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\LabDays (1)\LabDays\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\LabDays (1)\LabDays\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\LabDays (1)\LabDays\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\LabDays (1)\LabDays\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\LabDays (1)\LabDays\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\LabDays (1)\LabDays\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\LabDays (1)\LabDays\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\LabDays (1)\LabDays\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LabDays (1)\LabDays\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LabDays (1)\LabDays\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LabDays (1)\LabDays\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\LabDays (1)\LabDays\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LabDays (1)\LabDays\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\LabDays (1)\LabDays\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LabDays (1)\LabDays\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\LabDays (1)\LabDays\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LabDays (1)\LabDays\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\LabDays (1)\LabDays\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\LabDays (1)\LabDays\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\LabDays (1)\LabDays\obj\Debug\net5.0\QueryBuilder.csprojAssemblyReference.cache
+D:\LabDays (1)\LabDays\obj\Debug\net5.0\QueryBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\LabDays (1)\LabDays\obj\Debug\net5.0\QueryBuilder.AssemblyInfoInputs.cache
+D:\LabDays (1)\LabDays\obj\Debug\net5.0\QueryBuilder.AssemblyInfo.cs
+D:\LabDays (1)\LabDays\obj\Debug\net5.0\QueryBuilder.csproj.CoreCompileInputs.cache
+D:\LabDays (1)\LabDays\obj\Debug\net5.0\QueryBuilder.MvcApplicationPartsAssemblyInfo.cache
+D:\LabDays (1)\LabDays\obj\Debug\net5.0\QueryBuilder.RazorAssemblyInfo.cache
+D:\LabDays (1)\LabDays\obj\Debug\net5.0\QueryBuilder.RazorAssemblyInfo.cs
+D:\LabDays (1)\LabDays\obj\Debug\net5.0\staticwebassets\QueryBuilder.StaticWebAssets.Manifest.cache
+D:\LabDays (1)\LabDays\obj\Debug\net5.0\staticwebassets\QueryBuilder.StaticWebAssets.xml
+D:\LabDays (1)\LabDays\obj\Debug\net5.0\scopedcss\bundle\QueryBuilder.styles.css
+D:\LabDays (1)\LabDays\obj\Debug\net5.0\QueryBuilder.TagHelpers.input.cache
+D:\LabDays (1)\LabDays\obj\Debug\net5.0\QueryBuilder.TagHelpers.output.cache
+D:\LabDays (1)\LabDays\obj\Debug\net5.0\QueryBuilder.RazorCoreGenerate.cache
+D:\LabDays (1)\LabDays\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\LabDays (1)\LabDays\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\LabDays (1)\LabDays\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\LabDays (1)\LabDays\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\LabDays (1)\LabDays\obj\Debug\net5.0\Razor\Views\Columns\Index.cshtml.g.cs
+D:\LabDays (1)\LabDays\obj\Debug\net5.0\Razor\Views\querytemplate\Index.cshtml.g.cs
+D:\LabDays (1)\LabDays\obj\Debug\net5.0\QueryBuilder.RazorTargetAssemblyInfo.cache
+D:\LabDays (1)\LabDays\obj\Debug\net5.0\QueryBuilder.RazorTargetAssemblyInfo.cs
+D:\LabDays (1)\LabDays\obj\Debug\net5.0\QueryBuilder.Views.pdb
+D:\LabDays (1)\LabDays\obj\Debug\net5.0\QueryBuilder.csproj.CopyComplete
+D:\LabDays (1)\LabDays\obj\Debug\net5.0\QueryBuilder.dll
+D:\LabDays (1)\LabDays\obj\Debug\net5.0\ref\QueryBuilder.dll
+D:\LabDays (1)\LabDays\obj\Debug\net5.0\QueryBuilder.pdb
+D:\LabDays (1)\LabDays\obj\Debug\net5.0\QueryBuilder.genruntimeconfig.cache
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\obj\Debug\net5.0\QueryBuilder.csproj.AssemblyReference.cache
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\obj\Debug\net5.0\QueryBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\obj\Debug\net5.0\QueryBuilder.AssemblyInfoInputs.cache
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\obj\Debug\net5.0\QueryBuilder.AssemblyInfo.cs
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\obj\Debug\net5.0\QueryBuilder.csproj.CoreCompileInputs.cache
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\obj\Debug\net5.0\QueryBuilder.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\obj\Debug\net5.0\QueryBuilder.RazorAssemblyInfo.cache
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\obj\Debug\net5.0\QueryBuilder.RazorAssemblyInfo.cs
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\obj\Debug\net5.0\QueryBuilder.sourcelink.json
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\bin\Debug\net5.0\appsettings.json
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\bin\Debug\net5.0\QueryBuilder.StaticWebAssets.xml
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\bin\Debug\net5.0\QueryBuilder.exe
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\bin\Debug\net5.0\QueryBuilder.deps.json
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\bin\Debug\net5.0\QueryBuilder.runtimeconfig.json
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\bin\Debug\net5.0\QueryBuilder.runtimeconfig.dev.json
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\bin\Debug\net5.0\QueryBuilder.dll
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\bin\Debug\net5.0\QueryBuilder.pdb
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\bin\Debug\net5.0\QueryBuilder.Views.dll
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\bin\Debug\net5.0\QueryBuilder.Views.pdb
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\bin\Debug\net5.0\Humanizer.dll
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\obj\Debug\net5.0\QueryBuilder.TagHelpers.input.cache
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\obj\Debug\net5.0\QueryBuilder.TagHelpers.output.cache
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\obj\Debug\net5.0\QueryBuilder.RazorCoreGenerate.cache
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\obj\Debug\net5.0\Razor\Views\Columns\Index.cshtml.g.cs
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\obj\Debug\net5.0\Razor\Views\querytemplate\Index.cshtml.g.cs
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\obj\Debug\net5.0\QueryBuilder.RazorTargetAssemblyInfo.cache
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\obj\Debug\net5.0\QueryBuilder.RazorTargetAssemblyInfo.cs
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\obj\Debug\net5.0\QueryBuilder.Views.pdb
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\obj\Debug\net5.0\scopedcss\bundle\QueryBuilder.styles.css
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\obj\Debug\net5.0\staticwebassets\QueryBuilder.StaticWebAssets.Manifest.cache
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\obj\Debug\net5.0\staticwebassets\QueryBuilder.StaticWebAssets.Pack.cache
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\obj\Debug\net5.0\staticwebassets\msbuild.QueryBuilder.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\obj\Debug\net5.0\staticwebassets\msbuild.build.QueryBuilder.props
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.QueryBuilder.props
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.QueryBuilder.props
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\obj\Debug\net5.0\QueryBui.4E37C34F.Up2Date
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\obj\Debug\net5.0\QueryBuilder.dll
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\obj\Debug\net5.0\refint\QueryBuilder.dll
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\obj\Debug\net5.0\QueryBuilder.pdb
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\obj\Debug\net5.0\QueryBuilder.genruntimeconfig.cache
+C:\Users\rajat\OneDrive - Daxko\My Docs\LabDays (1)\LabDays (1)\LabDays\obj\Debug\net5.0\ref\QueryBuilder.dll
+D:\LabDays (2)\LabDays\bin\Debug\net5.0\appsettings.Development.json
+D:\LabDays (2)\LabDays\bin\Debug\net5.0\appsettings.json
+D:\LabDays (2)\LabDays\bin\Debug\net5.0\QueryBuilder.exe
+D:\LabDays (2)\LabDays\bin\Debug\net5.0\QueryBuilder.deps.json
+D:\LabDays (2)\LabDays\bin\Debug\net5.0\QueryBuilder.runtimeconfig.json
+D:\LabDays (2)\LabDays\bin\Debug\net5.0\QueryBuilder.runtimeconfig.dev.json
+D:\LabDays (2)\LabDays\bin\Debug\net5.0\QueryBuilder.dll
+D:\LabDays (2)\LabDays\bin\Debug\net5.0\ref\QueryBuilder.dll
+D:\LabDays (2)\LabDays\bin\Debug\net5.0\QueryBuilder.pdb
+D:\LabDays (2)\LabDays\bin\Debug\net5.0\QueryBuilder.Views.dll
+D:\LabDays (2)\LabDays\bin\Debug\net5.0\QueryBuilder.Views.pdb
+D:\LabDays (2)\LabDays\bin\Debug\net5.0\Humanizer.dll
+D:\LabDays (2)\LabDays\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\LabDays (2)\LabDays\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\LabDays (2)\LabDays\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\LabDays (2)\LabDays\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\LabDays (2)\LabDays\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\LabDays (2)\LabDays\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\LabDays (2)\LabDays\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\LabDays (2)\LabDays\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\LabDays (2)\LabDays\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LabDays (2)\LabDays\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\LabDays (2)\LabDays\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\LabDays (2)\LabDays\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\LabDays (2)\LabDays\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\LabDays (2)\LabDays\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\LabDays (2)\LabDays\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\LabDays (2)\LabDays\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\LabDays (2)\LabDays\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\LabDays (2)\LabDays\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\LabDays (2)\LabDays\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\LabDays (2)\LabDays\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LabDays (2)\LabDays\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LabDays (2)\LabDays\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LabDays (2)\LabDays\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\LabDays (2)\LabDays\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LabDays (2)\LabDays\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\LabDays (2)\LabDays\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LabDays (2)\LabDays\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\LabDays (2)\LabDays\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LabDays (2)\LabDays\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\LabDays (2)\LabDays\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\LabDays (2)\LabDays\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\LabDays (2)\LabDays\obj\Debug\net5.0\QueryBuilder.csprojAssemblyReference.cache
+D:\LabDays (2)\LabDays\obj\Debug\net5.0\QueryBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\LabDays (2)\LabDays\obj\Debug\net5.0\QueryBuilder.AssemblyInfoInputs.cache
+D:\LabDays (2)\LabDays\obj\Debug\net5.0\QueryBuilder.AssemblyInfo.cs
+D:\LabDays (2)\LabDays\obj\Debug\net5.0\QueryBuilder.csproj.CoreCompileInputs.cache
+D:\LabDays (2)\LabDays\obj\Debug\net5.0\QueryBuilder.MvcApplicationPartsAssemblyInfo.cache
+D:\LabDays (2)\LabDays\obj\Debug\net5.0\QueryBuilder.RazorAssemblyInfo.cache
+D:\LabDays (2)\LabDays\obj\Debug\net5.0\QueryBuilder.RazorAssemblyInfo.cs
+D:\LabDays (2)\LabDays\obj\Debug\net5.0\staticwebassets\QueryBuilder.StaticWebAssets.Manifest.cache
+D:\LabDays (2)\LabDays\obj\Debug\net5.0\staticwebassets\QueryBuilder.StaticWebAssets.xml
+D:\LabDays (2)\LabDays\obj\Debug\net5.0\scopedcss\bundle\QueryBuilder.styles.css
+D:\LabDays (2)\LabDays\obj\Debug\net5.0\QueryBuilder.TagHelpers.input.cache
+D:\LabDays (2)\LabDays\obj\Debug\net5.0\QueryBuilder.TagHelpers.output.cache
+D:\LabDays (2)\LabDays\obj\Debug\net5.0\QueryBuilder.RazorCoreGenerate.cache
+D:\LabDays (2)\LabDays\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\LabDays (2)\LabDays\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\LabDays (2)\LabDays\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\LabDays (2)\LabDays\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\LabDays (2)\LabDays\obj\Debug\net5.0\Razor\Views\Columns\Index.cshtml.g.cs
+D:\LabDays (2)\LabDays\obj\Debug\net5.0\Razor\Views\querytemplate\Index.cshtml.g.cs
+D:\LabDays (2)\LabDays\obj\Debug\net5.0\QueryBuilder.RazorTargetAssemblyInfo.cache
+D:\LabDays (2)\LabDays\obj\Debug\net5.0\QueryBuilder.RazorTargetAssemblyInfo.cs
+D:\LabDays (2)\LabDays\obj\Debug\net5.0\QueryBuilder.Views.pdb
+D:\LabDays (2)\LabDays\obj\Debug\net5.0\QueryBuilder.csproj.CopyComplete
+D:\LabDays (2)\LabDays\obj\Debug\net5.0\QueryBuilder.dll
+D:\LabDays (2)\LabDays\obj\Debug\net5.0\ref\QueryBuilder.dll
+D:\LabDays (2)\LabDays\obj\Debug\net5.0\QueryBuilder.pdb
+D:\LabDays (2)\LabDays\obj\Debug\net5.0\QueryBuilder.genruntimeconfig.cache
+D:\QueryBuilder\obj\Debug\net5.0\Razor\Views\querytemplate\Index.cshtml.g.cs
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\bin\Debug\net5.0\appsettings.json
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\bin\Debug\net5.0\QueryBuilder.exe
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\bin\Debug\net5.0\QueryBuilder.deps.json
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\bin\Debug\net5.0\QueryBuilder.runtimeconfig.json
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\bin\Debug\net5.0\QueryBuilder.runtimeconfig.dev.json
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\bin\Debug\net5.0\QueryBuilder.dll
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\bin\Debug\net5.0\ref\QueryBuilder.dll
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\bin\Debug\net5.0\QueryBuilder.pdb
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\bin\Debug\net5.0\QueryBuilder.Views.dll
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\bin\Debug\net5.0\QueryBuilder.Views.pdb
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\bin\Debug\net5.0\Humanizer.dll
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\obj\Debug\net5.0\QueryBuilder.csproj.AssemblyReference.cache
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\obj\Debug\net5.0\QueryBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\obj\Debug\net5.0\QueryBuilder.AssemblyInfoInputs.cache
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\obj\Debug\net5.0\QueryBuilder.AssemblyInfo.cs
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\obj\Debug\net5.0\QueryBuilder.csproj.CoreCompileInputs.cache
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\obj\Debug\net5.0\QueryBuilder.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\obj\Debug\net5.0\QueryBuilder.RazorAssemblyInfo.cache
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\obj\Debug\net5.0\QueryBuilder.RazorAssemblyInfo.cs
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\obj\Debug\net5.0\staticwebassets\QueryBuilder.StaticWebAssets.Manifest.cache
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\obj\Debug\net5.0\staticwebassets\QueryBuilder.StaticWebAssets.xml
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\obj\Debug\net5.0\scopedcss\bundle\QueryBuilder.styles.css
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\obj\Debug\net5.0\QueryBuilder.TagHelpers.input.cache
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\obj\Debug\net5.0\QueryBuilder.TagHelpers.output.cache
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\obj\Debug\net5.0\QueryBuilder.RazorCoreGenerate.cache
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\obj\Debug\net5.0\Razor\Views\Columns\Index.cshtml.g.cs
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\obj\Debug\net5.0\Razor\Views\querytemplate\Index.cshtml.g.cs
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\obj\Debug\net5.0\QueryBuilder.RazorTargetAssemblyInfo.cache
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\obj\Debug\net5.0\QueryBuilder.RazorTargetAssemblyInfo.cs
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\obj\Debug\net5.0\QueryBuilder.Views.pdb
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\obj\Debug\net5.0\QueryBuilder.csproj.CopyComplete
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\obj\Debug\net5.0\QueryBuilder.dll
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\obj\Debug\net5.0\ref\QueryBuilder.dll
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\obj\Debug\net5.0\QueryBuilder.pdb
+C:\Users\akanksha.goel\Downloads\QueryBuilder (1)\QueryBuilder\obj\Debug\net5.0\QueryBuilder.genruntimeconfig.cache
+D:\QueryBuilder\obj\Debug\net5.0\Razor\Views\Columns\Index.cshtml.g.cs
+D:\QueryBuilder (3)\QueryBuilder\bin\Debug\net5.0\appsettings.Development.json
+D:\QueryBuilder (3)\QueryBuilder\bin\Debug\net5.0\appsettings.json
+D:\QueryBuilder (3)\QueryBuilder\bin\Debug\net5.0\QueryBuilder.exe
+D:\QueryBuilder (3)\QueryBuilder\bin\Debug\net5.0\QueryBuilder.deps.json
+D:\QueryBuilder (3)\QueryBuilder\bin\Debug\net5.0\QueryBuilder.runtimeconfig.json
+D:\QueryBuilder (3)\QueryBuilder\bin\Debug\net5.0\QueryBuilder.runtimeconfig.dev.json
+D:\QueryBuilder (3)\QueryBuilder\bin\Debug\net5.0\QueryBuilder.dll
+D:\QueryBuilder (3)\QueryBuilder\bin\Debug\net5.0\ref\QueryBuilder.dll
+D:\QueryBuilder (3)\QueryBuilder\bin\Debug\net5.0\QueryBuilder.pdb
+D:\QueryBuilder (3)\QueryBuilder\bin\Debug\net5.0\QueryBuilder.Views.dll
+D:\QueryBuilder (3)\QueryBuilder\bin\Debug\net5.0\QueryBuilder.Views.pdb
+D:\QueryBuilder (3)\QueryBuilder\bin\Debug\net5.0\Humanizer.dll
+D:\QueryBuilder (3)\QueryBuilder\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\QueryBuilder (3)\QueryBuilder\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\QueryBuilder (3)\QueryBuilder\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\QueryBuilder (3)\QueryBuilder\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\QueryBuilder (3)\QueryBuilder\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\QueryBuilder (3)\QueryBuilder\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\QueryBuilder (3)\QueryBuilder\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\QueryBuilder (3)\QueryBuilder\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\QueryBuilder (3)\QueryBuilder\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\QueryBuilder (3)\QueryBuilder\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\QueryBuilder (3)\QueryBuilder\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\QueryBuilder (3)\QueryBuilder\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\QueryBuilder (3)\QueryBuilder\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\QueryBuilder (3)\QueryBuilder\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\QueryBuilder (3)\QueryBuilder\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\QueryBuilder (3)\QueryBuilder\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\QueryBuilder (3)\QueryBuilder\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\QueryBuilder (3)\QueryBuilder\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\QueryBuilder (3)\QueryBuilder\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\QueryBuilder (3)\QueryBuilder\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\QueryBuilder (3)\QueryBuilder\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\QueryBuilder (3)\QueryBuilder\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\QueryBuilder (3)\QueryBuilder\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\QueryBuilder (3)\QueryBuilder\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\QueryBuilder (3)\QueryBuilder\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\QueryBuilder (3)\QueryBuilder\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\QueryBuilder (3)\QueryBuilder\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\QueryBuilder (3)\QueryBuilder\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\QueryBuilder (3)\QueryBuilder\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\QueryBuilder (3)\QueryBuilder\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\QueryBuilder (3)\QueryBuilder\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\QueryBuilder (3)\QueryBuilder\obj\Debug\net5.0\QueryBuilder.csprojAssemblyReference.cache
+D:\QueryBuilder (3)\QueryBuilder\obj\Debug\net5.0\QueryBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\QueryBuilder (3)\QueryBuilder\obj\Debug\net5.0\QueryBuilder.AssemblyInfoInputs.cache
+D:\QueryBuilder (3)\QueryBuilder\obj\Debug\net5.0\QueryBuilder.AssemblyInfo.cs
+D:\QueryBuilder (3)\QueryBuilder\obj\Debug\net5.0\QueryBuilder.csproj.CoreCompileInputs.cache
+D:\QueryBuilder (3)\QueryBuilder\obj\Debug\net5.0\QueryBuilder.MvcApplicationPartsAssemblyInfo.cache
+D:\QueryBuilder (3)\QueryBuilder\obj\Debug\net5.0\QueryBuilder.RazorAssemblyInfo.cache
+D:\QueryBuilder (3)\QueryBuilder\obj\Debug\net5.0\QueryBuilder.RazorAssemblyInfo.cs
+D:\QueryBuilder (3)\QueryBuilder\obj\Debug\net5.0\staticwebassets\QueryBuilder.StaticWebAssets.Manifest.cache
+D:\QueryBuilder (3)\QueryBuilder\obj\Debug\net5.0\staticwebassets\QueryBuilder.StaticWebAssets.xml
+D:\QueryBuilder (3)\QueryBuilder\obj\Debug\net5.0\scopedcss\bundle\QueryBuilder.styles.css
+D:\QueryBuilder (3)\QueryBuilder\obj\Debug\net5.0\QueryBuilder.TagHelpers.input.cache
+D:\QueryBuilder (3)\QueryBuilder\obj\Debug\net5.0\QueryBuilder.TagHelpers.output.cache
+D:\QueryBuilder (3)\QueryBuilder\obj\Debug\net5.0\QueryBuilder.RazorCoreGenerate.cache
+D:\QueryBuilder (3)\QueryBuilder\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\QueryBuilder (3)\QueryBuilder\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\QueryBuilder (3)\QueryBuilder\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\QueryBuilder (3)\QueryBuilder\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\QueryBuilder (3)\QueryBuilder\obj\Debug\net5.0\Razor\Views\Columns\Index.cshtml.g.cs
+D:\QueryBuilder (3)\QueryBuilder\obj\Debug\net5.0\Razor\Views\querytemplate\Index.cshtml.g.cs
+D:\QueryBuilder (3)\QueryBuilder\obj\Debug\net5.0\QueryBuilder.RazorTargetAssemblyInfo.cache
+D:\QueryBuilder (3)\QueryBuilder\obj\Debug\net5.0\QueryBuilder.RazorTargetAssemblyInfo.cs
+D:\QueryBuilder (3)\QueryBuilder\obj\Debug\net5.0\QueryBuilder.Views.pdb
+D:\QueryBuilder (3)\QueryBuilder\obj\Debug\net5.0\QueryBuilder.csproj.CopyComplete
+D:\QueryBuilder (3)\QueryBuilder\obj\Debug\net5.0\QueryBuilder.dll
+D:\QueryBuilder (3)\QueryBuilder\obj\Debug\net5.0\ref\QueryBuilder.dll
+D:\QueryBuilder (3)\QueryBuilder\obj\Debug\net5.0\QueryBuilder.pdb
+D:\QueryBuilder (3)\QueryBuilder\obj\Debug\net5.0\QueryBuilder.genruntimeconfig.cache
