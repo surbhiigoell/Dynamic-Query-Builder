@@ -1,0 +1,593 @@
+﻿@{
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<script type="text/javascript" src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
+<script type="text/javascript" src="https://cdn.datatables.net/buttons/1.7.1/js/dataTables.buttons.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
+<script type="text/javascript" src="https://cdn.datatables.net/buttons/1.7.1/js/buttons.html5.min.js"></script>
+
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css" />
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/1.7.1/css/buttons.dataTables.min.css" />
+<style>
+    body {
+        background-color: #E5E5E5;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-size: cover;
+        background-image: url("https://images.unsplash.com/photo-1543286386-713bdd548da4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHJlcG9ydHxlbnwwfHwwfHx8MA%3D%3D");
+    }
+
+    /*container {
+        position: relative;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+
+        background-size: cover;
+        z-index: -1;
+    }*/
+
+    .container {
+        /*position: absolute;
+        z-index: -21;*/
+        background-color: #ffffff;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+        margin-top: 50px;
+    }
+
+
+    h1 {
+        color: #4A154B;
+        margin-top: 0;
+    }
+
+    table {
+        margin-top: 20px;
+    }
+
+    th, td {
+        white-space: nowrap;
+    }
+
+    .flex {
+        display: flex; /* Use flexbox layout */
+        align-items: baseline; /* Align items vertically */
+    }
+
+    .flex-distance {
+        justify-content: space-between;
+    }
+
+    .dist {
+        margin-right: 10px;
+    }
+
+    label {
+        color: #4A154B;
+    }
+
+    select {
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+
+    button.btn-primary {
+        background-color: #4A154B;
+        border: none;
+    }
+
+        button.btn-primary:hover {
+            background-color: #6F3489;
+        }
+
+    .btn-primary.dt-buttons {
+        margin: 10px;
+        color: white;
+        border-radius: 5px;
+    }
+
+        .btn-primary.dt-buttons:hover {
+            background-color: #6F3489 !important; /* Set hover color to match other buttons */
+        }
+
+    label {
+        font-size: 140%;
+    }
+
+    h2 {
+        text-align: center;
+        padding: 20px 0;
+    }
+
+    table caption {
+        padding: .5em 0;
+    }
+
+    table.dataTable th,
+    table.dataTable td {
+        white-space: nowrap;
+    }
+
+    .input-box {
+        display: flex;
+        align-items: center; /* Align items vertically */
+        border: 1px solid #ccc; /* Add border */
+        border-radius: 5px; /* Add border radius */
+        padding: 15px; /* Add padding */
+        margin-left: 10px; /* Adjust margin as needed */
+    }
+
+    .p {
+        text-align: center;
+        padding-top: 140px;
+        font-size: 14px;
+    }
+
+    #resultTable {
+        width: auto;
+        border-collapse: collapse;
+        border: 1px solid #ccc;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
+
+        #resultTable th,
+        #resultTable td {
+            border: 1px solid #ccc;
+        }
+
+        #resultTable th {
+            background-color: #4A154B;
+            color: white;
+        }
+
+        #resultTable tbody tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+        #resultTable tbody tr:hover {
+            background-color: #ddd;
+        }
+
+    #resultDiv {
+        overflow-x: auto; /* Add horizontal scrollbar when content overflows */
+        /*max-width: 100%;*/ /* Ensure the div doesn't overflow its container */
+        padding-bottom: 20px; /* Add some padding to prevent overlapping with the scrollbar */
+    }
+
+    .condition-row {
+        padding: 5px;
+    }
+</style>
+<div class="container-fluid">
+    <div class="flex flex-distance">     
+        <h1 style="margin:0px" class="mt-5"><img src="https://w7.pngwing.com/pngs/245/413/png-transparent-graphql-hd-logo-thumbnail.png" width="40px" height="40px" style="padding-right:5px;">Dynamic Query Builder</h1>
+        <button type="button" id="existingTemplateButton" class="btn btn-primary">Existing Template</button>
+    </div>
+    <form id="queryForm" method="post">
+        <div class="form-group">
+            <label for="tableSelector">Select Table:</label>
+            <select id="tableSelector" class="form-control">
+                <option></option>
+                @foreach (var item in ViewData["tables"] as List<string>)
+                {
+                    @*<option value="MemberAgreement">MemberAgreement</option>
+                    <option value="MemberAgreementItem">MemberAgreementItem</option>
+                    <option value="Item">Item</option>*@
+
+                    <option value=@item>@item</option>
+                }
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="columnSelector">Select Columns:</label>
+            <h6 class="mt-0">To select multiple columns, hold down the 'Ctrl' key. If no columns are selected, all columns will be fetched by default</h6>
+            <select id="columnSelector" class="form-control" multiple></select>
+        </div>
+        <div id="conditionsContainer" class="form-group">
+            <!-- Initial condition row -->
+            <label for="conditionsContainer">Apply Conditions:</label>
+            <h6 for="conditionsContainer" style="display: block">To select multiple conditions, select column name, the desired arithmatic operator, desired value and logical operator.</h6>
+            <div class="row condition-row">
+                <div class="col">
+                    <select id="ColumnDropdown" class="form-control column-selector">
+                        <option value="">Select Condition Column</option>
+                        <!-- Columns will be populated dynamically using JavaScript -->
+                    </select>
+                </div>
+                <div class="col">
+                    <select class="form-control operator-selector">
+                        <option value="=">=</option>
+                        <option value=">">></option>
+                        <option value="<"><</option>
+                        <option value="<="><=</option>
+                        <option value=">=">>=</option>
+                    </select>
+                </div>
+                <div class="col">
+                    <input type="text" class="form-control data-input" placeholder="Enter Data">
+                </div>
+                <div class="col">
+                    <select class="form-control logical-operator-selector">
+                        <option value="NONE">NONE</option>
+                        <option value="AND">AND</option>
+                        <option value="OR">OR</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+            <div class="flex flex-distance">
+                <button type="button" id="goButton" class="btn btn-primary dist">Go</button>
+                <div class="input-box flex flex-distance">
+                    <input type="text" id="templateNameInput" class="form-control dist" placeholder="Template Name">
+                    <button type="button" id="saveTemplateButton" class="btn btn-primary" style="white-space: nowrap">Save Template</button>
+                </div>
+            </div>
+    </form>
+</div>
+<div id="resultDiv" class="container-fluid" style="display: none">
+    <div class="row">
+        <div class="col-xs-12">
+            <div class="my-2">
+                <h1 class="mt-5">Result</h1>
+            </div>
+            <table id="resultTable" class="table table-bordered table-hover dt-responsive">
+                <thead id="tableHeader">
+                </thead>
+                <tbody id="tableBody">
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+<script>
+
+    document.getElementById("existingTemplateButton").onclick = function () {
+        window.location.href = "/querytemplate/Index";
+    };
+
+    document.getElementById("tableSelector").addEventListener("change", function () {
+        var selectedTable = this.value;
+        // Clear all existing rows in #conditionsContainer
+        document.getElementById("conditionsContainer").innerHTML = "";
+        var applyConditionLabel = document.createElement("label");
+        applyConditionLabel.setAttribute("for", "conditionsContainer");
+        applyConditionLabel.innerText = "Apply Conditions:";
+        document.getElementById("conditionsContainer").appendChild(applyConditionLabel);
+
+        var applyConditionSubHeading = document.createElement("h6");
+        applyConditionSubHeading.setAttribute("for", "conditionsContainer");
+        applyConditionSubHeading.innerText = "To select multiple conditions, select column name, the desired arithmatic operator, desired value and logical operator.";
+        document.getElementById("conditionsContainer").appendChild(applyConditionSubHeading);
+
+        // Add a new row with ColumnDropdown for the selected table
+        addNewRowForColumnDropdown(selectedTable);
+
+        if (selectedTable === "") {
+            // Clear all options in the columnSelector
+            columnSelector.innerHTML = "";
+        } else {
+            // Fetch columns for the selected table
+            fetchColumns(selectedTable);
+        }
+    });
+
+    document.getElementById("tableSelector").addEventListener("change", function () {
+        var selectedTable = this.value;
+        fetchColumnsForDropdown(selectedTable);
+    });
+
+    document.getElementById("conditionsContainer").addEventListener("change", function (event) {
+        var target = event.target;
+        if (target.classList.contains("column-selector")) {
+            var selectedOption = target.value;
+            var currentRow = target.closest(".condition-row");
+            var operatorSelector = currentRow.querySelector(".operator-selector");
+            var dataInput = currentRow.querySelector(".data-input");
+            var logicalOperatorSelector = currentRow.querySelector(".logical-operator-selector");
+
+            if (selectedOption === "Select Condition Column") {
+                operatorSelector.style.display = "none";
+                dataInput.style.display = "none";
+                logicalOperatorSelector.style.display = "none";
+            } else {
+                operatorSelector.style.display = "block";
+                dataInput.style.display = "block";
+                logicalOperatorSelector.style.display = "block";
+            }
+        }
+        if (target.classList.contains("logical-operator-selector")) {
+            var selectedOption = target.value;
+            var currentRow = target.closest(".condition-row");
+            var nextRow = currentRow.nextElementSibling;
+
+            // If the selected option is "NONE," remove all rows below the current row
+            if (selectedOption === "NONE") {
+                while (nextRow) {
+                    nextRow.remove();
+                    nextRow = currentRow.nextElementSibling;
+                }
+            }
+
+            // If the selected option is "AND" or "OR," add a new row if there isn't one already
+            else if (selectedOption === "AND" || selectedOption === "OR") {
+                if (!nextRow) {
+                    var newRow = currentRow.cloneNode(true);
+                    currentRow.parentNode.appendChild(newRow);       
+                }
+            }
+        }
+    });
+
+    function addNewRowForColumnDropdown(tableName) {
+        var conditionRow = document.createElement("div");
+        conditionRow.classList.add("row", "condition-row");
+        conditionRow.innerHTML = `
+        <div class="col">
+            <select id="ColumnDropdown" class="form-control column-selector">
+                <option value="Select Condition Column">Select Condition Column</option>
+                <!-- Columns will be populated dynamically using JavaScript -->
+            </select>
+        </div>
+        <div class="col">
+            <select class="form-control operator-selector" style="display: none;">
+                <option value="=">=</option>
+                <option value=">">></option>
+                <option value="<"><</option>
+                <option value="<="><=</option>
+                <option value=">=">>=</option>
+            </select>
+        </div>
+        <div class="col">
+            <input type="text" class="form-control data-input" style="display: none;" placeholder="Enter Data">
+        </div>
+        <div class="col">
+            <select class="form-control logical-operator-selector" style="display: none;">
+                <option value="NONE">NONE</option>
+                <option value="AND">AND</option>
+                <option value="OR">OR</option>
+            </select>
+        </div>`;
+        document.getElementById("conditionsContainer").appendChild(conditionRow);
+    }
+
+
+    function addNewRow() {
+        var conditionRow = document.createElement("div");
+        conditionRow.classList.add("row", "condition-row");
+        conditionRow.innerHTML = `
+    <div class="col">
+        <select id="ColumnDropdown" class="form-control column-selector">
+            <option value="Select Condition Column">Select Condition Column</option>
+            <!-- Columns will be populated dynamically using JavaScript -->
+        </select>
+    </div>
+    <div class="col">
+        <select class="form-control operator-selector" style="display: none;">
+            <option value="=">=</option>
+            <option value=">">></option>
+            <option value="<"><</option>
+            <option value="<="><=</option>
+            <option value=">=">>=</option>
+        </select>
+    </div>
+    <div class="col">
+        <input type="text" class="form-control data-input" style="display: none;" placeholder="Enter Data">
+    </div>
+    <div class="col">
+        <select class="form-control logical-operator-selector" style="display: none;">
+            <option value="NONE">NONE</option>
+            <option value="AND">AND</option>
+            <option value="OR">OR</option>
+        </select>
+    </div>`;
+        document.getElementById("conditionsContainer").appendChild(conditionRow);
+    }
+
+    function fetchColumns(tableName) {
+        fetch(`/api/columns/${tableName}`)
+            .then(response => response.json())
+            .then(data => {
+                var columnSelector = document.getElementById("columnSelector");
+                columnSelector.innerHTML = "";
+                data.forEach(column => {
+                    var option = document.createElement("option");
+                    option.value = column;
+                    option.innerText = column;
+                    columnSelector.appendChild(option);
+                });
+            });
+    }
+
+    function fetchColumnsForDropdown(tableName) {
+        fetch(`/api/columns/${tableName}`)
+            .then(response => response.json())
+            .then(data => {
+                var ColumnDropdown = document.getElementById("ColumnDropdown");
+                ColumnDropdown.innerHTML = "";
+                var selectConditionOption = document.createElement("option");
+                selectConditionOption.value = "Select Condition Column";
+                selectConditionOption.innerText = "Select Condition Column";
+                ColumnDropdown.appendChild(selectConditionOption);
+                data.forEach(column => {
+                    var option = document.createElement("option");
+                    option.value = column;
+                    option.innerText = column;
+                    ColumnDropdown.appendChild(option);
+                });
+                // Check if "Select Condition Column" is the initially selected option
+                if (ColumnDropdown.value === "Select Condition Column") {
+                    var operatorSelector = document.querySelector(".operator-selector");
+                    var dataInput = document.querySelector(".data-input");
+                    var logicalOperatorSelector = document.querySelector(".logical-operator-selector");
+
+                    operatorSelector.style.display = "none";
+                    dataInput.style.display = "none";
+                    logicalOperatorSelector.style.display = "none";
+                }
+            });
+    }
+
+
+    // Initial fetch for the default table
+    //fetchColumns("MemberAgreement");
+    document.getElementById("goButton").addEventListener("click", function () {
+        var selectedColumns = Array.from(document.getElementById("columnSelector").selectedOptions).map(option => option.value);
+        var selectedTable = document.getElementById("tableSelector").value;
+
+        var conditions = [];
+        document.querySelectorAll(".condition-row").forEach(row => {
+            var column = row.querySelector(".column-selector").value;
+            var operation = row.querySelector(".operator-selector").value;
+            var data = row.querySelector(".data-input").value;
+            var logicalOperator = row.querySelector(".logical-operator-selector").value;
+
+            if (column !== "Select Condition Column")
+                conditions.push({ column, operation, data, logicalOperator });
+        });
+
+        var requestData = {
+            tableName: selectedTable,
+            columns: selectedColumns,
+            conditions: conditions
+        };
+
+        fetch(`/api/data/${selectedTable}`, {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify(requestData)
+        })
+            .then(response => response.json())
+            .then(data => {
+                if ($.fn.DataTable.isDataTable('#resultTable')) {
+                    $('#resultTable').DataTable().destroy();
+                }
+                document.getElementById("resultDiv").style.display = "block";
+
+                var tableHeader = document.getElementById("tableHeader");
+                var tableBody = document.getElementById("tableBody");
+                tableHeader.innerHTML = "";
+                tableBody.innerHTML = "";// Clear previous table body content
+                var headerRow = document.createElement("tr");
+                for (var i = 0; i < selectedColumns.length; i++) {
+                    var colName = selectedColumns[i];
+                    var headerCell = document.createElement("th");
+                    headerCell.innerText = colName;
+                    headerRow.appendChild(headerCell);
+                }
+                tableHeader.appendChild(headerRow);
+                for (var i = 0; i < data.length; i++) {
+                    var rowData = data[i];
+                    var row = document.createElement("tr"); // Create a new table row for each row of data
+                    for (var j = 0; j < rowData.length; j++) {
+                        var val = rowData[j];
+                        var cell = document.createElement("td"); // Create a new table cell for each value
+                        cell.innerText = val; // Set the text content of the cell to the current value
+                        row.appendChild(cell); // Append the cell to the current row
+                    }
+                    tableBody.appendChild(row); // Append the row to the table body
+                }
+                // Destroy any existing DataTable instances
+                if ($.fn.DataTable.isDataTable('#resultTable')) {
+                    $('#resultTable').DataTable().destroy();
+                }
+
+                // Initialize DataTables for the result table only
+                $('#resultTable').DataTable({
+                    dom: 'lBfrtip',
+                    buttons: [
+                        {
+                            extend: 'excelHtml5',
+                            text: 'Export to Excel',
+                            className: 'btn btn-primary dt-buttons',
+                            exportOptions: {
+                                columns: ':visible'
+                            }
+                        },
+                        {
+                            extend: 'csvHtml5',
+                            text: 'Export to CSV',
+                            className: 'btn btn-primary dt-buttons',
+                            exportOptions: {
+                                columns: ':visible'
+                            }
+                        }
+                    ],
+                    // Enable pagination
+                    paging: true,
+                    // Enable the search feature
+                    searching: true
+                });
+            });
+    });
+
+    var firstTimeColumnDropdown = document.getElementById("ColumnDropdown");
+    firstTimeColumnDropdown.innerHTML = "";
+    var firstTimeselectConditionOption = document.createElement("option");
+    firstTimeselectConditionOption.value = "Select Condition Column";
+    firstTimeselectConditionOption.innerText = "Select Condition Column";
+    firstTimeColumnDropdown.appendChild(firstTimeselectConditionOption);
+    
+    // Check if "Select Condition Column" is the initially selected option
+    if (firstTimeColumnDropdown.value === "Select Condition Column") {
+        var operatorSelector = document.querySelector(".operator-selector");
+        var dataInput = document.querySelector(".data-input");
+        var logicalOperatorSelector = document.querySelector(".logical-operator-selector");
+
+        operatorSelector.style.display = "none";
+        dataInput.style.display = "none";
+        logicalOperatorSelector.style.display = "none";
+    }
+
+    document.getElementById("saveTemplateButton").addEventListener("click", function () {
+        var templateName = document.getElementById("templateNameInput").value;
+        if (templateName.trim() === "") {
+            alert("Please enter a template name.");
+            return;
+        }
+        var selectedColumns = Array.from(document.getElementById("columnSelector").selectedOptions).map(option => option.value);
+        var selectedTable = document.getElementById("tableSelector").value;
+        var conditions = [];
+        document.querySelectorAll(".condition-row").forEach(row => {
+            var column = row.querySelector(".column-selector").value;
+            var operation = row.querySelector(".operator-selector").value;
+            var data = row.querySelector(".data-input").value;
+            var logicalOperator = row.querySelector(".logical-operator-selector").value;
+
+            if (column !== "Select Condition Column")
+                conditions.push({ column, operation, data, logicalOperator });
+        });
+
+        var requestData = {
+            templateName: templateName,
+            tableName: selectedTable,
+            columns: selectedColumns,
+            conditions: conditions
+        };
+
+        fetch(`querytemplate/api/querytemplate/savetemplate/{templateId}`, {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify(requestData)
+        })
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                alert("Template saved successfully.");
+            })
+            .catch(error => {
+                console.error('There was a problem with the fetch operation:', error);
+                alert("Failed to save template. Please try again.");
+            });
+    });
+</script>
